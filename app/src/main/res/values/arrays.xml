@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hobby">
+        <item>여행</item>
+        <item>스포츠</item>
+        <item>요리</item>
+        <item>게임</item>
+    </string-array>
+
+    <string-array name="cars">
+        <item>단거리 여가형</item>
+        <item>장거리 여행용</item>
+    </string-array>
+
+    <string-array name="options">
+        <item>옵션 미선택</item>
+        <item>TV</item>
+        <item>냉장고</item>
+        <item>전자레인지</item>
+        <item>가스레인지</item>
+        <item>책상</item>
+        <item>의자</item>
+        <item>컴퓨터</item>
+        <item>안마의자</item>
+        <item>프린터</item>
+        <item>없음</item>
+    </string-array>
+</resources>
