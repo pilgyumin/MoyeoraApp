@@ -14,11 +14,11 @@
 > - 이용자 커스텀 설정 기능 (이용자의 선호 온도 및 조명 설정)
 
 ## 구현된 페이지 예시
-![ControlCar](./image/ControlCar.jpg)
-모바일 App의 차량 제어 UI
+![ControlCar](./image/ControlCar.png)                   ![ReservedCarLocation](./image/ReservedCarLocation.png)
+모바일 App의 예약 차량 위치 조회 UI                       모바일 App의 차량 제어 UI
 
-![ReservedCarLocation](./image/ReservedCarLocation.jpg)
-모바일 App의 예약 차량 위치 조회 UI
+
+
 
 ## 역할 분담
 * 모바일 App UI 개발 : 오창영
